@@ -1,7 +1,3 @@
-# Walletech
-A fintech company operating in Nigeria
-
-![App Screenshot](src/assets/walletechscreenshot.png)
 
 
 # Getting Started with Create React App
